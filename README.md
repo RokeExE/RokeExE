@@ -1,53 +1,60 @@
-<h1 align="center">Hi, I'm Roke</h1>
-<h3 align="center">Developer | Discord Bot Creator</h3>
+<h1 align="center">Myself Roke</h1>
+<h3 align="center">Developer • Discord Bot Architect • Founder of Aira Node</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RokeExE&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=RokeExE&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## Aira Node
+## 🏢 Aira Node
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/1454707180400939124/0dea953f92f7a70be0aa316b9bcae78e.webp?size=4096" width="100%" />
+  <img src="https://cdn.discordapp.com/banners/1454707180400939124/0dea953f92f7a70be0aa316b9bcae78e.webp?size=2048" width="100%" height="300"/>
 </p>
 
-### About Aira Node
+<p align="center">
+  <strong>High Performance Infrastructure for Discord Bots</strong>
+</p>
 
-**Aira Node** is a bot hosting service providing:
+### 🚀 What is Aira Node?
 
-- Free & Paid Discord Bot Hosting
-- High Performance Lavalink Nodes
-- MongoDB Databases
-- USA & Germany Locations
-- Optimized Performance & Uptime
+**Aira Node** is a high-performance bot hosting platform built for developers who need reliability, speed, and scalable infrastructure.
+
+### ⚡ Services
+
+- 🖥️ Free & Premium Discord Bot Hosting  
+- 🎵 Dedicated Lavalink Nodes  
+- 🗄️ Managed MongoDB Databases  
+- 🌍 USA & Germany Locations  
+- 🔒 Optimized Performance & High Uptime  
 
 <p align="center">
   <a href="https://panel.airanode.cloud">
-    <img src="https://img.shields.io/badge/Visit_Aira_Node-000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Launch_Aira_Node-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Currently working on **Private Discord Music Bot**
-- Ask me about **Python, Discord.js**
-- Fun fact: I build bots that sometimes actually work
+- 🔭 Building advanced Discord systems & automation tools  
+- 🧠 Focused on performance optimization & scalable bot architecture  
+- 💬 Languages: Python, JavaScript  
+- ⚡ Fun fact: My bots break only when I’m sleeping  
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,mongodb,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RokeExE&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -56,7 +63,7 @@
 
 ---
 
-## GitHub Streak
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RokeExE&theme=tokyonight&hide_border=true" />
@@ -64,7 +71,7 @@
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RokeExE&theme=tokyo-night&hide_border=true" />
@@ -72,7 +79,15 @@
 
 ---
 
-## Connect With Me
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RokeExE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/883997337863749652">
@@ -85,4 +100,6 @@
 
 ---
 
-⭐ From [RokeExE](https://github.com/RokeExE)
+<p align="center">
+  ⭐ Built & Maintained by Roke • Founder of Aira Node
+</p>
