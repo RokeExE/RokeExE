@@ -10,11 +10,7 @@
 ## 🏢 Aira Node
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1467418917575196774/1473537266143199426/airanode.png?ex=69969205&is=69954085&hm=20b63bb1085b587620953f94f3c09b39a48a52d9c3920dc48790345528d25326&=&format=webp&quality=lossless" width="120px" />
+  <img src="https://images-ext-1.discordapp.net/external/QjDU1snv5Eom3mN8gbJvRX_Rzo-fzznOV5wLW31kdSY/%3Fsize%3D4096/https/cdn.discordapp.com/banners/1454707180400939124/0dea953f92f7a70be0aa316b9bcae78e.webp?format=webp&width=1381&height=777" width="100%" />
 </p>
 
 ### 🚀 About Aira Node
