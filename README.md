@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_LOGO_IMAGE_LINK_HERE" width="120px" />
+  <img src="https://media.discordapp.net/attachments/1467418917575196774/1473537266143199426/airanode.png?ex=69969205&is=69954085&hm=20b63bb1085b587620953f94f3c09b39a48a52d9c3920dc48790345528d25326&=&format=webp&quality=lossless" width="120px" />
 </p>
 
 ### 🚀 About Aira Node
