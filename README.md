@@ -33,12 +33,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🥤 About Me
 
-- 🔭 Building advanced Discord systems & automation tools  
-- 🧠 Focused on performance optimization & scalable bot architecture  
-- 💬 Languages: Python, JavaScript  
-- ⚡ Fun fact: My bots break only when I’m sleeping  
+- Currently working on **A Private Music Bot**
+- Languages: Python, NodeJs  
+- Fun fact: I build bots that sometimes actually work  
 
 ---
 
