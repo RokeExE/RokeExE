@@ -74,14 +74,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RokeExE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
