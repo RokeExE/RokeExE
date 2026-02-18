@@ -10,10 +10,6 @@
 ## 🏢 Aira Node
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/1454707180400939124/0dea953f92f7a70be0aa316b9bcae78e.webp?size=2048" width="100%" height="300"/>
-</p>
-
-<p align="center">
   <strong>High Performance Infrastructure for Discord Bots</strong>
 </p>
 
