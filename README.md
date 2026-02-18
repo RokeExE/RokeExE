@@ -1,5 +1,5 @@
 <h1 align="center">Myself Roke</h1>
-<h3 align="center">Developer • Discord Bot Architect • Founder of Aira Node</h3>
+<h3 align="center">Developer • Founder of Aira Node</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RokeExE&label=Profile%20Views&color=0e75b6&style=flat" />
